@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Image-Classification-ML-App/static/css/main.73ee546f.chunk.css",
-    "main.js": "/Image-Classification-ML-App/static/js/main.2fb13858.chunk.js",
-    "main.js.map": "/Image-Classification-ML-App/static/js/main.2fb13858.chunk.js.map",
-    "runtime-main.js": "/Image-Classification-ML-App/static/js/runtime-main.cf49210c.js",
-    "runtime-main.js.map": "/Image-Classification-ML-App/static/js/runtime-main.cf49210c.js.map",
-    "static/js/2.fc621eeb.chunk.js": "/Image-Classification-ML-App/static/js/2.fc621eeb.chunk.js",
-    "static/js/2.fc621eeb.chunk.js.map": "/Image-Classification-ML-App/static/js/2.fc621eeb.chunk.js.map",
+    "main.js": "/Image-Classification-ML-App/static/js/main.04d8be8d.chunk.js",
+    "main.js.map": "/Image-Classification-ML-App/static/js/main.04d8be8d.chunk.js.map",
+    "runtime-main.js": "/Image-Classification-ML-App/static/js/runtime-main.a9f4dcac.js",
+    "runtime-main.js.map": "/Image-Classification-ML-App/static/js/runtime-main.a9f4dcac.js.map",
+    "static/js/2.e34c4003.chunk.js": "/Image-Classification-ML-App/static/js/2.e34c4003.chunk.js",
+    "static/js/2.e34c4003.chunk.js.map": "/Image-Classification-ML-App/static/js/2.e34c4003.chunk.js.map",
     "index.html": "/Image-Classification-ML-App/index.html",
-    "precache-manifest.4c1e12edad02989d9e80ed8cc3367db9.js": "/Image-Classification-ML-App/precache-manifest.4c1e12edad02989d9e80ed8cc3367db9.js",
+    "precache-manifest.802d941fdc531d0eb2c5764547695623.js": "/Image-Classification-ML-App/precache-manifest.802d941fdc531d0eb2c5764547695623.js",
     "service-worker.js": "/Image-Classification-ML-App/service-worker.js",
     "static/css/main.73ee546f.chunk.css.map": "/Image-Classification-ML-App/static/css/main.73ee546f.chunk.css.map",
-    "static/js/2.fc621eeb.chunk.js.LICENSE": "/Image-Classification-ML-App/static/js/2.fc621eeb.chunk.js.LICENSE",
+    "static/js/2.e34c4003.chunk.js.LICENSE": "/Image-Classification-ML-App/static/js/2.e34c4003.chunk.js.LICENSE",
     "static/media/cat.jpg": "/Image-Classification-ML-App/static/media/cat.ca134ef9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf49210c.js",
-    "static/js/2.fc621eeb.chunk.js",
+    "static/js/runtime-main.a9f4dcac.js",
+    "static/js/2.e34c4003.chunk.js",
     "static/css/main.73ee546f.chunk.css",
-    "static/js/main.2fb13858.chunk.js"
+    "static/js/main.04d8be8d.chunk.js"
   ]
 }
