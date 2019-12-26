@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Image-Classification-ML-App/static/css/main.9083b7eb.chunk.css",
+    "main.js": "/Image-Classification-ML-App/static/js/main.34d6f462.chunk.js",
+    "main.js.map": "/Image-Classification-ML-App/static/js/main.34d6f462.chunk.js.map",
+    "runtime-main.js": "/Image-Classification-ML-App/static/js/runtime-main.3e9892d8.js",
+    "runtime-main.js.map": "/Image-Classification-ML-App/static/js/runtime-main.3e9892d8.js.map",
+    "static/js/2.f4b0782c.chunk.js": "/Image-Classification-ML-App/static/js/2.f4b0782c.chunk.js",
+    "static/js/2.f4b0782c.chunk.js.map": "/Image-Classification-ML-App/static/js/2.f4b0782c.chunk.js.map",
+    "index.html": "/Image-Classification-ML-App/index.html",
+    "precache-manifest.1e032faaa5ca4712abbf55a417f10cf8.js": "/Image-Classification-ML-App/precache-manifest.1e032faaa5ca4712abbf55a417f10cf8.js",
+    "service-worker.js": "/Image-Classification-ML-App/service-worker.js",
+    "static/css/main.9083b7eb.chunk.css.map": "/Image-Classification-ML-App/static/css/main.9083b7eb.chunk.css.map",
+    "static/js/2.f4b0782c.chunk.js.LICENSE": "/Image-Classification-ML-App/static/js/2.f4b0782c.chunk.js.LICENSE",
+    "static/media/logo.png": "/Image-Classification-ML-App/static/media/logo.2d081569.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e9892d8.js",
+    "static/js/2.f4b0782c.chunk.js",
+    "static/css/main.9083b7eb.chunk.css",
+    "static/js/main.34d6f462.chunk.js"
+  ]
+}
