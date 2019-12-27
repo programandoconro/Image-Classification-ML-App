@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Image-Classification-ML-App/precache-manifest.802d941fdc531d0eb2c5764547695623.js"
+  "/Image-Classification-ML-App/precache-manifest.597ce26702dacc65cc828ac53577f6b6.js"
 );
 
 self.addEventListener('message', (event) => {

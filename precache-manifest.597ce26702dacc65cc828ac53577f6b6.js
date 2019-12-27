@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec8fbea37c187b3026d22cafbb71b2f3",
+    "revision": "c5f84dbe38839e9958ccdd3e2699191a",
     "url": "/Image-Classification-ML-App/index.html"
   },
   {
-    "revision": "fb7c5a7497fa64799f4a",
-    "url": "/Image-Classification-ML-App/static/css/main.73ee546f.chunk.css"
+    "revision": "2553f10314cf3f18e214",
+    "url": "/Image-Classification-ML-App/static/css/main.a932290c.chunk.css"
   },
   {
     "revision": "829cb7aabb77dfc5ebe0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Image-Classification-ML-App/static/js/2.e34c4003.chunk.js.LICENSE"
   },
   {
-    "revision": "fb7c5a7497fa64799f4a",
-    "url": "/Image-Classification-ML-App/static/js/main.04d8be8d.chunk.js"
+    "revision": "2553f10314cf3f18e214",
+    "url": "/Image-Classification-ML-App/static/js/main.0e89960d.chunk.js"
   },
   {
     "revision": "ddf61fb58c4b1ee94eea",
