@@ -10,7 +10,7 @@ Post: https://programandoconro.wordpress.com/2019/12/30/react-app-para-clasifica
 
 ```git clone https://github.com/programandoconro/Image-Classification-ML-App```
 
-*Important: Create a project in Firebase and write your credentials into the ``firebase.js`` file.
+*Important: Create a Firebase project and write your credentials into the ``firebase.js`` file.
 
 ## Install dependencies and start the App
 
